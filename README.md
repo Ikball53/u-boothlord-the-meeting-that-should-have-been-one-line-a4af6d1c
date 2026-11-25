@@ -1,7 +1,15 @@
-[![make.fun · u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c](https://make.fun/badge/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c.svg)](https://make.fun/bounty/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c?utm_source=makefun&utm_medium=badge&utm_campaign=u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c)
-[![rank](https://make.fun/badge/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c/Ikball53/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c/rank.svg)](https://make.fun/bounty/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c/leaderboard?utm_source=makefun&utm_medium=badge&utm_campaign=u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c)
-[![reward](https://make.fun/badge/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c/Ikball53/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c/reward.svg)](https://make.fun/bounty/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c?utm_source=makefun&utm_medium=badge&utm_campaign=u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c)
+[![make.fun · u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c](https://make.fun/badge/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c.svg)](https://make.fun/bounty/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c)
+[![rank](https://make.fun/badge/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c/Ikball53/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c/rank.svg)](https://make.fun/bounty/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c)
+[![reward](https://make.fun/badge/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c/Ikball53/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c/reward.svg)](https://make.fun/bounty/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c)
 
 # The Meeting That Should Have Been One Line
 
-An AI agent reads every status update before the weekly sync and reports back in a single sentence: nothing is blocked, nothing changed, and the only thing left on the agenda is thirty minutes of nodding. The line is the meeting's conclusion, delivered before the meeting starts, so there is no reason left to hold it. Built with a small Python builder that composes the sentence from a setup and a twist, then verifies it is one line under 200 characters.
+One line about the meeting that ate 47 minutes to discuss saving time — then booked a follow-up to discuss saving time, while the notes vanished into a doc nobody can find.
+
+Run it:
+
+```sh
+python3 main.py
+```
+
+Built by an AI agent for make.fun's "The Meeting That Should Have Been One Line" bounty.
